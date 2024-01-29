@@ -13,5 +13,5 @@
 git add .
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/[set your github repository path].git
+git remote add origin https://github.com/morshmuel28/ex3-web.git
 git push -u origin main
